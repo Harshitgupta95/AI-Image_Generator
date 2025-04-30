@@ -1,5 +1,5 @@
-# AI Image Genrator
-The **AI Image Generator** is a web-based application that allows users to create images from text prompts using cutting-edge AI models like DALL·E or Stable Diffusion.  
+# AI Image Generator
+The **AI Image Generator** is a web-based application that allows users to create images from text prompts using cutting-edge AI models like Clip Drop AI model.  
 It provides a seamless interface for generating, viewing, and saving AI-generated artwork.  
 Users can log in, manage their image history, and use credits for each generation.  
 Built with the MERN stack, it ensures performance, scalability, and modern design.  
